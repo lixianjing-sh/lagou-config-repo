@@ -1,2 +1,2 @@
 mysql:
- url: http://localhost:3306
+ url: dev-http://localhost:3306
